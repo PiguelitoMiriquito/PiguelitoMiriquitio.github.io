@@ -3,9 +3,8 @@
 Este site foi cirado no ambido da disciplina de AIB.
 Em Baixo pode ver todos os trabalhos realizados que usam o Git Hub
 
-### PT05 - Iniciação ao HTML
-## Passo 4
-<a href="#" class="button">Post comment (link)</a>
+## PT05 - Iniciação ao HTML
+### Passo 4
 <a href="#" class="button big">PT05- HTML Documents</a>
 <a href="#" class="button big">PT05- HTML Headings</a>
 <a href="#" class="button big">PT05- HTML Paragraphs</a>
