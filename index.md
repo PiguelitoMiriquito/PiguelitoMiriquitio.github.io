@@ -13,4 +13,4 @@ Em Baixo pode ver todos os trabalhos realizados que usam o Git Hub
 
 ### Tabela
 - [Tabela](https://github.com/PiguelitoMiriquito/pt05_tabela)
-
+- [Tabela Funcional](https://github.com/PiguelitoMiriquito/PT05-Tabela-v2/tree/main)
