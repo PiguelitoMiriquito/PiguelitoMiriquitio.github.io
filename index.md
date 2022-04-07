@@ -12,5 +12,5 @@ Em Baixo pode ver todos os trabalhos realizados que usam o Git Hub
 - [HTML Imagens](https://github.com/PiguelitoMiriquito/PT05-Passo-4/blob/99c46eb3332a0104f5bf5fffaa719bba12c027d8/pt05imagens.HTML)
 
 ### Tabela
-- [Tabela](https://github.com/PiguelitoMiriquito/PT05-Passo-4/blob/99c46eb3332a0104f5bf5fffaa719bba12c027d8/pt05.HTML)
+- [Tabela](https://github.com/PiguelitoMiriquito/pt05_tabela)
 
