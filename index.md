@@ -1,7 +1,7 @@
-## Bem vindo á minha GitHub Page
+## Bem vindo à minha GitHub Page
 
 Este site foi criado no âmbito da disciplina de AIB.
-Em Baixo pode ver todos os trabalhos realizados que usam o Git Hub
+Em baixo pode ver todos os trabalhos realizados que usam o Git Hub
 
 ## PT05 - Iniciação ao HTML
 ### Passo 4
