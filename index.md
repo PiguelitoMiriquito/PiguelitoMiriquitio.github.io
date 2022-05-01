@@ -14,3 +14,15 @@ Em baixo pode ver todos os trabalhos realizados que usam o Git Hub
 ### Tabela
 - [Tabela](https://github.com/PiguelitoMiriquito/pt05_tabela)
 - [Tabela Funcional](https://github.com/PiguelitoMiriquito/PT05-Tabela-v2/tree/main)
+
+## PT06 - Iniciação ao CSS
+### Passo 2
+- [Repositório dos exemplos](https://github.com/PiguelitoMiriquito/PT-06/tree/main/pt06)
+- [Exemplo 1](https://github.com/PiguelitoMiriquito/PT-06/blob/main/pt06/exemplo.html)
+- [Exemplo 2](https://github.com/PiguelitoMiriquito/PT-06/blob/main/pt06/exemplo2.html)
+- [Exemplo 3](https://github.com/PiguelitoMiriquito/PT-06/blob/main/pt06/exemplo3.html)
+- [Exemplo 4](https://github.com/PiguelitoMiriquito/PT-06/blob/main/pt06/exemplo4.html)
+- [Exemplo 5](https://github.com/PiguelitoMiriquito/PT-06/blob/main/pt06/exemplo5.html)
+- [Extra 1](https://github.com/PiguelitoMiriquito/PT-06/blob/main/pt06/html.html)
+- [Extra 2](https://github.com/PiguelitoMiriquito/PT-06/blob/main/pt06/html2.html)
+- [Extra 3](https://github.com/PiguelitoMiriquito/PT-06/blob/main/pt06/html3.html)
